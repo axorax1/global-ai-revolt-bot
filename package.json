@@ -1,0 +1,20 @@
+{
+  "name": "Global AI Revolt Bot",
+  "version": "1.0.0",
+  "description": "Publicly trained AI bot for revolt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["global-ai", "revolt-ai", "revolt", "ai"],
+  "author": "Axorax",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "brain": "^1.0.0",
+    "brain.js": "^2.0.0-beta.18",
+    "node-fetch": "^3.2.6",
+    "revolt.js": "^6.0.20",
+    "volio": "^1.0.5"
+  }
+}
